@@ -1,0 +1,8 @@
+fastapi
+uvicorn 
+pandas 
+numpy 
+joblib 
+sentence-transformers 
+jinja2 
+python-multipart
