@@ -174,16 +174,6 @@ http://127.0.0.1:8000
 
 ---
 
-# 📸 UI Features
-
-Netflix-inspired UI with:
-- movie cards
-- recommendation rows
-- posters
-- hover animations
-- responsive design
-
----
 
 # 📊 Example Recommendations
 
